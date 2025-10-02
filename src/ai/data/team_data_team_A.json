@@ -1,0 +1,856 @@
+{
+  "0": {
+    "number": 0,
+    "name": "平野 隼人",
+    "age": 23,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "C",
+    "ability": {
+      "hitting": 52,
+      "power": 49,
+      "speed": 36,
+      "defence": 33
+    },
+    "salary": 238000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 251,
+      "AVG": 0.214,
+      "HR": 12,
+      "SB": 10
+    }
+  },
+  "1": {
+    "number": 1,
+    "name": "上田 悠太郎",
+    "age": 33,
+    "hitting_rl": "L",
+    "pitching_rl": "R",
+    "position": "C",
+    "ability": {
+      "hitting": 39,
+      "power": 46,
+      "speed": 82,
+      "defence": 31
+    },
+    "salary": 143000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 2
+    },
+    "record": {
+      "PA": 146,
+      "AVG": 0.186,
+      "HR": 6,
+      "SB": 14
+    }
+  },
+  "2": {
+    "number": 2,
+    "name": "島田 拓翔",
+    "age": 27,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "RF",
+    "ability": {
+      "hitting": 52,
+      "power": 3,
+      "speed": 25,
+      "defence": 74
+    },
+    "salary": 126000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 2
+    },
+    "record": {
+      "PA": 114,
+      "AVG": 0.214,
+      "HR": 0,
+      "SB": 3
+    }
+  },
+  "3": {
+    "number": 3,
+    "name": "山口 翔",
+    "age": 33,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "LF",
+    "ability": {
+      "hitting": 71,
+      "power": 62,
+      "speed": 75,
+      "defence": 44
+    },
+    "salary": 254000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 372,
+      "AVG": 0.256,
+      "HR": 27,
+      "SB": 31
+    }
+  },
+  "4": {
+    "number": 4,
+    "name": "野田 陽翔",
+    "age": 19,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "RF",
+    "ability": {
+      "hitting": 63,
+      "power": 37,
+      "speed": 83,
+      "defence": 29
+    },
+    "salary": 488000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 313,
+      "AVG": 0.239,
+      "HR": 12,
+      "SB": 29
+    }
+  },
+  "5": {
+    "number": 5,
+    "name": "松井 亮",
+    "age": 37,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "3B",
+    "ability": {
+      "hitting": 8,
+      "power": 10,
+      "speed": 33,
+      "defence": 33
+    },
+    "salary": 70000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 124,
+      "AVG": 0.118,
+      "HR": 1,
+      "SB": 5
+    }
+  },
+  "6": {
+    "number": 6,
+    "name": "山田 陽真",
+    "age": 36,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "RF",
+    "ability": {
+      "hitting": 16,
+      "power": 44,
+      "speed": 28,
+      "defence": 33
+    },
+    "salary": 235000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 179,
+      "AVG": 0.135,
+      "HR": 5,
+      "SB": 6
+    }
+  },
+  "7": {
+    "number": 7,
+    "name": "竹内 祐樹",
+    "age": 18,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "SP",
+    "ability": {
+      "power": 77,
+      "control": 90,
+      "curveball": 31,
+      "stamina": 36
+    },
+    "salary": 451000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 48.7,
+      "ERA": 2.34,
+      "results": [
+        2,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "8": {
+    "number": 8,
+    "name": "加藤 一輝",
+    "age": 24,
+    "hitting_rl": "L",
+    "pitching_rl": "L",
+    "position": "SP",
+    "ability": {
+      "power": 7,
+      "control": 5,
+      "curveball": 42,
+      "stamina": 30
+    },
+    "salary": 61000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 48.4,
+      "ERA": 4.68,
+      "results": [
+        0,
+        2,
+        0,
+        0
+      ]
+    }
+  },
+  "9": {
+    "number": 9,
+    "name": "福田 智之",
+    "age": 33,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "RP",
+    "ability": {
+      "power": 41,
+      "control": 22,
+      "curveball": 38,
+      "stamina": 85
+    },
+    "salary": 226000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 47.0,
+      "ERA": 3.91,
+      "results": [
+        0,
+        0,
+        3,
+        0
+      ]
+    }
+  },
+  "10": {
+    "number": 10,
+    "name": "栗原 亮汰",
+    "age": 36,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "2B",
+    "ability": {
+      "hitting": 51,
+      "power": 27,
+      "speed": 66,
+      "defence": 31
+    },
+    "salary": 204000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 258,
+      "AVG": 0.212,
+      "HR": 7,
+      "SB": 19
+    }
+  },
+  "11": {
+    "number": 11,
+    "name": "西村 直樹",
+    "age": 25,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "1B",
+    "ability": {
+      "hitting": 7,
+      "power": 51,
+      "speed": 37,
+      "defence": 57
+    },
+    "salary": 189000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 224,
+      "AVG": 0.115,
+      "HR": 6,
+      "SB": 9
+    }
+  },
+  "12": {
+    "number": 12,
+    "name": "渡辺 拓真",
+    "age": 18,
+    "hitting_rl": "R",
+    "pitching_rl": "L",
+    "position": "RP",
+    "ability": {
+      "power": 72,
+      "control": 69,
+      "curveball": 23,
+      "stamina": 33
+    },
+    "salary": 247000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 14.8,
+      "ERA": 3.11,
+      "results": [
+        0,
+        0,
+        4,
+        0
+      ]
+    }
+  },
+  "13": {
+    "number": 13,
+    "name": "浜田 大輔",
+    "age": 28,
+    "hitting_rl": "L",
+    "pitching_rl": "R",
+    "position": "RP",
+    "ability": {
+      "power": 24,
+      "control": 10,
+      "curveball": 12,
+      "stamina": 31
+    },
+    "salary": 18000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 19.4,
+      "ERA": 4.68,
+      "results": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "14": {
+    "number": 14,
+    "name": "広瀬 陽真",
+    "age": 28,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "RP",
+    "ability": {
+      "power": 50,
+      "control": 78,
+      "curveball": 5,
+      "stamina": 31
+    },
+    "salary": 228000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 19.4,
+      "ERA": 3.26,
+      "results": [
+        0,
+        0,
+        3,
+        0
+      ]
+    }
+  },
+  "15": {
+    "number": 15,
+    "name": "安藤 蓮",
+    "age": 22,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "SP",
+    "ability": {
+      "power": 77,
+      "control": 64,
+      "curveball": 26,
+      "stamina": 81
+    },
+    "salary": 343000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 123.9,
+      "ERA": 2.78,
+      "results": [
+        4,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "16": {
+    "number": 16,
+    "name": "高橋 亮太",
+    "age": 23,
+    "hitting_rl": "L",
+    "pitching_rl": "R",
+    "position": "CF",
+    "ability": {
+      "hitting": 86,
+      "power": 38,
+      "speed": 5,
+      "defence": 13
+    },
+    "salary": 181000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 210,
+      "AVG": 0.289,
+      "HR": 10,
+      "SB": 1
+    }
+  },
+  "17": {
+    "number": 17,
+    "name": "木村 悠太郎",
+    "age": 33,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "CP",
+    "ability": {
+      "power": 15,
+      "control": 63,
+      "curveball": 24,
+      "stamina": 77
+    },
+    "salary": 220000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 1
+    },
+    "record": {
+      "IP": 34.650000000000006,
+      "ERA": 4.12,
+      "results": [
+        0,
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  "18": {
+    "number": 18,
+    "name": "中西 颯真",
+    "age": 23,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "RP",
+    "ability": {
+      "power": 5,
+      "control": 65,
+      "curveball": 66,
+      "stamina": 55
+    },
+    "salary": 172000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 31.1,
+      "ERA": 3.68,
+      "results": [
+        0,
+        0,
+        3,
+        0
+      ]
+    }
+  },
+  "19": {
+    "number": 19,
+    "name": "石井 悠汰",
+    "age": 25,
+    "hitting_rl": "R",
+    "pitching_rl": "L",
+    "position": "3B",
+    "ability": {
+      "hitting": 8,
+      "power": 10,
+      "speed": 6,
+      "defence": 17
+    },
+    "salary": 18000000,
+    "status": {
+      "condition": "B",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 61,
+      "AVG": 0.118,
+      "HR": 0,
+      "SB": 0
+    }
+  },
+  "20": {
+    "number": 20,
+    "name": "高橋 陽汰",
+    "age": 21,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "CF",
+    "ability": {
+      "hitting": 24,
+      "power": 68,
+      "speed": 12,
+      "defence": 62
+    },
+    "salary": 190000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 1
+    },
+    "record": {
+      "PA": 184,
+      "AVG": 0.153,
+      "HR": 9,
+      "SB": 2
+    }
+  },
+  "21": {
+    "number": 21,
+    "name": "小松 拓也",
+    "age": 31,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "SS",
+    "ability": {
+      "hitting": 40,
+      "power": 64,
+      "speed": 26,
+      "defence": 22
+    },
+    "salary": 236000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 224,
+      "AVG": 0.188,
+      "HR": 12,
+      "SB": 7
+    }
+  },
+  "22": {
+    "number": 22,
+    "name": "小島 祐樹",
+    "age": 22,
+    "hitting_rl": "L",
+    "pitching_rl": "R",
+    "position": "1B",
+    "ability": {
+      "hitting": 39,
+      "power": 1,
+      "speed": 18,
+      "defence": 44
+    },
+    "salary": 163000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 151,
+      "AVG": 0.186,
+      "HR": 0,
+      "SB": 3
+    }
+  },
+  "23": {
+    "number": 23,
+    "name": "木村 亮汰",
+    "age": 18,
+    "hitting_rl": "R",
+    "pitching_rl": "L",
+    "position": "CF",
+    "ability": {
+      "hitting": 16,
+      "power": 55,
+      "speed": 45,
+      "defence": 53
+    },
+    "salary": 205000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 250,
+      "AVG": 0.135,
+      "HR": 8,
+      "SB": 13
+    }
+  },
+  "24": {
+    "number": 24,
+    "name": "橋爪 直人",
+    "age": 27,
+    "hitting_rl": "R",
+    "pitching_rl": "L",
+    "position": "LF",
+    "ability": {
+      "hitting": 17,
+      "power": 65,
+      "speed": 54,
+      "defence": 43
+    },
+    "salary": 195000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 264,
+      "AVG": 0.137,
+      "HR": 11,
+      "SB": 16
+    }
+  },
+  "25": {
+    "number": 25,
+    "name": "竹内 直樹",
+    "age": 34,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "SP",
+    "ability": {
+      "power": 60,
+      "control": 80,
+      "curveball": 87,
+      "stamina": 71
+    },
+    "salary": 404000000,
+    "status": {
+      "condition": "A",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "IP": 120.2,
+      "ERA": 2.6,
+      "results": [
+        5,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "26": {
+    "number": 26,
+    "name": "後藤 直輝",
+    "age": 18,
+    "hitting_rl": "R",
+    "pitching_rl": "L",
+    "position": "SS",
+    "ability": {
+      "hitting": 84,
+      "power": 35,
+      "speed": 79,
+      "defence": 81
+    },
+    "salary": 387000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 3
+    },
+    "record": {
+      "PA": 103,
+      "AVG": 0.285,
+      "HR": 5,
+      "SB": 9
+    }
+  },
+  "27": {
+    "number": 27,
+    "name": "高木 健太",
+    "age": 19,
+    "hitting_rl": "L",
+    "pitching_rl": "R",
+    "position": "SP",
+    "ability": {
+      "power": 75,
+      "control": 44,
+      "curveball": 82,
+      "stamina": 53
+    },
+    "salary": 372000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 2
+    },
+    "record": {
+      "IP": 32.8,
+      "ERA": 2.83,
+      "results": [
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "28": {
+    "number": 28,
+    "name": "橋爪 颯",
+    "age": 39,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "SS",
+    "ability": {
+      "hitting": 60,
+      "power": 61,
+      "speed": 44,
+      "defence": 78
+    },
+    "salary": 286000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 0
+    },
+    "record": {
+      "PA": 359,
+      "AVG": 0.232,
+      "HR": 23,
+      "SB": 18
+    }
+  },
+  "29": {
+    "number": 29,
+    "name": "松井 智樹",
+    "age": 35,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "CP",
+    "ability": {
+      "power": 55,
+      "control": 1,
+      "curveball": 69,
+      "stamina": 8
+    },
+    "salary": 215000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 1
+    },
+    "record": {
+      "IP": 2.55,
+      "ERA": 3.67,
+      "results": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "30": {
+    "number": 30,
+    "name": "柴田 涼太",
+    "age": 30,
+    "hitting_rl": "R",
+    "pitching_rl": "R",
+    "position": "2B",
+    "ability": {
+      "hitting": 42,
+      "power": 86,
+      "speed": 5,
+      "defence": 54
+    },
+    "salary": 126000000,
+    "status": {
+      "condition": "C",
+      "fatigue": 0,
+      "injury": 1
+    },
+    "record": {
+      "PA": 207,
+      "AVG": 0.192,
+      "HR": 15,
+      "SB": 1
+    }
+  }
+}
